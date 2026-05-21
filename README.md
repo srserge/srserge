@@ -4,7 +4,7 @@ I'm ![Serge](https://github.com/srserge), a Gameplay Programmer passionate about
 
 I **love prototyping** the ideas that pop into my head and **challenging my programming skills**.
 
-My main tech stack is <ins> Unreal Engine 5, C++, and Rider IDE <ins>. I love diving deep into the systems that make games feel just right.
+My main game development stack is <ins> Unreal Engine 5, C++, and Rider IDE </ins>. I love diving deep into the systems that make games feel just right.
 
 I've got a few public repos, but my favorite so far is my God of War Axe Throw prototype — it's been my most well-received project on social media to date.
 
