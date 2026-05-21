@@ -6,7 +6,8 @@ I **love prototyping** the ideas that pop into my head and **challenging my prog
 
 My main game development stack is <ins> Unreal Engine 5, C++, and Rider IDE </ins>. I love diving deep into the systems that make games feel just right.
 
-I've got a few public repos, but my favorite so far is my God of War Axe Throw prototype — it's been my most well-received project on social media to date.
+I've got a few public repos, but my favorite so far is my 
+![God of War Axe Throw prototype](https://www.linkedin.com/posts/srserge_unrealengine-ue5-gamedev-ugcPost-7460749528007172096-0DP3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGVFn78BwOs0yaW95aNoR6PhO26RToZ5hrg) — it's been my most well-received project on social media to date.
 
 I'm also quite interested in shaders and graphics development!
 
